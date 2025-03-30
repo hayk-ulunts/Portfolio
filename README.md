@@ -65,7 +65,7 @@ Hi, my name is Hayk. I am an aspiring QA engineer with a strong background in ph
 * empathy
 
 ### Courses :notebook:
-* [QA engineer from 0](https://www.udemy.com/course/qaengineer/) 
+* [Tester from scratch 2025. Web/Mobile, Postman, SQL, Git, Bash](https://www.udemy.com/course/qaengineer/) 
 * [Operating DevTools](https://www.udemy.com/course/devtools-2017-the-basics-of-chrome-developer-tools/?srsltid=AfmBOoo9pkOFCd3gh61Kj75hNjLUFiLtY5BwgGoXHGoWCgrWYk8ybRA3)
 * [Fundamentals of manual software testing](https://www.udemy.com/course/learn-manual-testing/?srsltid=AfmBOor3TVxjkQjsIN_NUuzUIsPocbel5R-aOwBt1XRXmK1Lz-NNwbFr&couponCode=LETSLEARNNOW)
 * [Postman - REST API testing](https://www.udemy.com/course/postman-the-complete-guide/?utm_source=adwords&utm_medium=udemyads&utm_campaign=Search_DSA_Beta_Prof_la.EN_cc.ROW-English&campaigntype=Search&portfolio=ROW-English&language=EN&product=Course&test=&audience=DSA&topic=&priority=Beta&utm_content=deal4584&utm_term=_._ag_162511579404_._ad_696197165421_._kw__._de_c_._dm__._pl__._ti_dsa-1677053911088_._li_9070059_._pd__._&matchtype=&gad_source=1&gclid=Cj0KCQjw16O_BhDNARIsAC3i2GBUZY2ziW3oJrZfqKanUmw4YmntLpfnKicgq9MjES6F5j0IycRcVc8aAuuTEALw_wcB&couponCode=PMNVD30A)
