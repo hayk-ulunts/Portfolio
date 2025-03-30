@@ -7,7 +7,7 @@ Hi, my name is Hayk. I am an aspiring QA engineer with a strong background in ph
 
 
 ### Tools :wrench:
-* [Jira](https://www.atlassian.com/pl/software/jira), [Trello](https://trello.com/pl/tour) - project management
+* [Jira](https://www.atlassian.com/en/software/jira), [Trello](https://trello.com/en/tour) - project management
 * [Confluence](https://www.atlassian.com/software/confluence) - storing informations and documents about project
 * [qTest](https://www.tricentis.com/products/unified-test-management-qtest/test-case-manager) - bug tracking
 * [Slack](https://slack.com/) - communication within the team
